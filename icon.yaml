@@ -1,0 +1,10 @@
+
+path: C:\Users\34210\Desktop\yolo\ultralytics-8.4.86\dataset\icon
+train: images/train
+val: images/val
+test:
+nc: 2
+#classes
+names:
+  0: trash
+  1: qq
